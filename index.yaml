@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  dapr-ms:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-03T01:24:12.361155481Z"
+    description: A Helm chart for microservice
+    digest: 6c33263104894593b0a2fad72e4d0377935eebf1174662291cc56c43b65fc98f
+    name: dapr-ms
+    type: application
+    urls:
+    - https://tech-fan-40.github.io/helm-chart/dapr-ms-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-03T01:24:12.355845104Z"
